@@ -43,7 +43,7 @@ render_drafts: false
 post_asset_folder: false
 relative_link: false
 future: true
-syntax_highlighter:
+syntax_highlighter: #empty
 highlight:
   enable: false
   line_number: true
