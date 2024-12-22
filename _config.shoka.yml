@@ -130,8 +130,8 @@ post:
 
 # 文章评论
 valine:
-  appId: #Your_appId
-  appKey: #Your_appkey
+  appId: qCOeWIvUbpySqY5opeNkUr84-gzGzoHsz
+  appKey: Q7SVVTYsIO4T5DfBRMTTS8VR
   placeholder: ヽ(○´∀`)ﾉ♪ # Comment box placeholder
   avatar: mp # Gravatar style : mp, identicon, monsterid, wavatar, robohash, retro
   pageSize: 10 # Pagination size
