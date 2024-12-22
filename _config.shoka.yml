@@ -166,11 +166,11 @@ audio:
   - https://y.qq.com/n/yqq/playsquare/3535982902.html
 
 # 加载第三方组件
-# vendors:
-#   css:
-#     # 略略略
-#   js:
-#     # 略略略
+vendors:
+  css:
+    # 略略略
+  js:
+    # 略略略
 
 # markdown-it 配置
 markdown:
